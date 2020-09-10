@@ -1,0 +1,48 @@
+/*Theme Name: Anders tema
+Author: Anders
+
+*/
+
+body {
+    background-color: lightblue; 
+    margin: 0;
+    padding:0;
+    
+
+    
+}
+
+h1 {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+
+h2 {color: white;}
+
+.posts { color:white;
+}
+
+.posts__post {color: white;
+  
+}
+
+.post__content {color: white;
+    
+}
+.footer{
+    height: 100px;
+    background-color: black ;
+    color: pink;
+    font-size: 30px;
+    text-align: center;
+    padding-top:20px;
+}
+.header{
+    height: 40px;
+    background-color: blue;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+  padding: 20px;
+}
